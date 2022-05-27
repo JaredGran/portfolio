@@ -1,11 +1,16 @@
 .top {
   float: left;
+  
 }
-.list1{
+.list{
   float: left;
-  width: 25px;
+  width: 25%;
   padding: 10px;
   border: black;
   border-width: 20px;
   margin: 5px;
+}
+.img{
+  height: 200px;
+  width: 50%;
 }
