@@ -18,7 +18,7 @@ A website to show my previous work while also showing those skills off while I m
 * go to your file explorer
 * open file
 * open file "index.html"
-Alternativly
+* Alternativly
 * open browser
 * search in browser
 
